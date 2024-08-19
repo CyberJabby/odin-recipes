@@ -1,0 +1,36 @@
+.titulo{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+}
+
+.imagen{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+.img{
+    width: 40%;
+    height: auto;
+}
+
+h2{
+    text-align: center;
+    font-size: 25px;
+
+}
+    
+
+h3 {
+    font-size: 20px;
+    text-align: justify;
+}
+
+h2,
+h3{
+    color: red;
+    font-weight: 700;
+}
