@@ -8,14 +8,13 @@
 
 .imagen{
     display: block;
-    margin: 12px auto;
+    margin: auto;
     text-align: center;
-    padding: 8px;
 }
 
 .img{
     width: 40%;
-    height: 500px;
+    height: auto;
 }
 
 h2{
