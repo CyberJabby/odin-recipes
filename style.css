@@ -1,6 +1,25 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 body {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  flex: 1;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  position: relative;
+  bottom: 0;
+  width: 100%;
 }
 
 
@@ -39,15 +58,6 @@ body {
 
     }
 
-footer {
-  background-color: #333;
-  color: #fff;
-  text-align: center;
-  padding: 4px;
-  position: relative;
-  width: auto;
-  margin-top: 50%;
-}
 
 
     
